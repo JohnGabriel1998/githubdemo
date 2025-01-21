@@ -5,3 +5,4 @@ print("the japan team made the change once again")
 print("changes for second commit");
 
 print("commit A");
+print("commit B");
