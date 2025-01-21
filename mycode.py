@@ -6,3 +6,5 @@ print("changes for second commit");
 
 print("commit A");
 print("commit B");
+print("commit C");
+
