@@ -4,7 +4,6 @@ print("the japan team made the change once again")
 
 print("changes for second commit");
 
+<<<<<<< HEAD
 print("commit A");
 print("commit B");
-print("commit C");
-
