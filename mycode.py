@@ -7,3 +7,4 @@ print("changes for second commit");
 print("commit A");
 print("commit B");
 print("the edit I am making directly from github account")
+print("Few more changes to check the fetch and merge")
